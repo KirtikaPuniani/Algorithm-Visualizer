@@ -1,1 +1,3 @@
 # Algorithm-Visualizer
+
+Building an algorithm visualiser to build easy visualization and understanding.
